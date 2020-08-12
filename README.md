@@ -1,2 +1,2 @@
-# Microsoft Homepage Clone
-Microsoft homepage using HTML5/CSS and a bit of JS for the menu. Also, using  modern CSS including CSS grid, flexbox and responsive media queries
+# Microsoft Clone
+Microsoft homepage created using HTML5/CSS3 and a bit of JS for the menu. Also, using  modern CSS3 techniques including CSS grid, flexbox and responsive media queries
